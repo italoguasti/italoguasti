@@ -4,7 +4,7 @@
   ##
  
 <div>
-<strong>I'm Italo</strong> - I'm a Flutter developer (beginner), Quality Assurance Analyst and Computer Science Student. I study Flutter constantly.
+<strong>I'm Italo</strong> - I'm a Flutter Developer, Quality Assurance Analyst and Computer Science Student. I study Flutter constantly.
 <div>
 
 <br>
