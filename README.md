@@ -4,7 +4,7 @@
   ##
  
 <div>
-<strong>I'm Italo</strong> - I'm a Flutter Developer and Computer Science Student. I study Flutter constantly.
+<strong>I'm Italo</strong> - I'm a Flutter developer and Computer Science student. I constantly study Flutter being the area that I like the most and have the most expertise. In addition, I have already worked as Quality Assurance and today I work in a project such as FrontEnd and also as a Data Scientist.
 <div>
 
 <br>
