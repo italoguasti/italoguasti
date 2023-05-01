@@ -4,7 +4,7 @@
   ##
  
 <div>
-<strong>I'm Italo</strong> - I'm a Flutter developer and Computer Science student.
+I'm a Flutter developer and Computer Science student.
 <div>
 
 <br>
