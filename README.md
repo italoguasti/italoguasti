@@ -12,7 +12,7 @@ I'm a Flutter developer, I've worked as a Test Engineer and I'm a Computer Scien
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js,c,cpp,git,gitlab,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js,react,c,cpp,git,gitlab,stackoverflow,vscode" />
   </a>
 </p>
 </div>
