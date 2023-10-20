@@ -4,7 +4,7 @@
   ##
  
 <div>
-I'm a Flutter developer, I've worked as a Test Engineer and I'm a Computer Science student.
+I'm a developer and I'm a Computer Science student.
 <div>
 
 <br>
