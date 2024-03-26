@@ -8,7 +8,7 @@ My first contact with programming was when I was still studying Pharmacy, so I f
 <br>
 I currently work with React.js and am looking for an adventure in Data Science.
 <br>
-Some of his hobbies are Running, CrossFit and Swimming.</p>
+Some of my hobbies are Running, CrossFit and Swimming.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
