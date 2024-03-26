@@ -4,7 +4,7 @@
   ##
  
 <div>
-I'm a developer and I'm a Computer Science student.
+I'm a developer and I'm a Computer Science student. Seeking to learn and venture into Data Science.
 <div>
 
 <br>
