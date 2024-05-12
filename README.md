@@ -2,13 +2,9 @@
     <span>Italo Guasti</span>
 </h1>
 
-<p align="justify">Front-end developer from Ouro Preto-MG, Brazil, graduating in Computer Science at the Federal University of Ouro Preto.
+<p align="justify">Graduating in Computer Science from UFOP.
 <br>
-My first contact with programming was when I was still studying Pharmacy, so I fell in love and changed my entire life to Computing.
-<br>
-I currently work with React.js and am looking for an adventure in Data Science.
-<br>
-Some of my hobbies are Running, CrossFit and Swimming.</p>
+I'm studying to specialize in Machine Learning and AI</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
