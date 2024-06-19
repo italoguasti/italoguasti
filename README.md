@@ -4,7 +4,7 @@
 
 <p align="justify">Graduating in Computer Science from UFOP.
 <br>
-I'm studying to specialize in Frontend Developer and Technology Leadership.</p>
+Mobile and Frontend Developer.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
