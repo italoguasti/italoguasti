@@ -14,7 +14,7 @@ I'm studying to specialize in Frontend Developer and Technology Leadership.</p>
 <h3 align="left">Some technologies</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,react,nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,docker,react,flutter,nodejs" />
   </a>
   
   <br>
