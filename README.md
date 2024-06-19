@@ -4,7 +4,7 @@
 
 <p align="justify">Graduating in Computer Science from UFOP.
 <br>
-Mobile Developer and Front-end Developer.</p>
+Front-end Developer and Mobile Developer.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
