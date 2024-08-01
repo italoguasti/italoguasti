@@ -14,7 +14,7 @@ Front-end Developer and Mobile Developer.</p>
 <h3 align="left">Some technologies</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,docker,react,flutter,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,typescript,docker,react,flutter,nodejs" />
   </a>
   
   <br>
