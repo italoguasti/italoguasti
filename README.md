@@ -4,7 +4,8 @@
 
 <p align="justify">Graduating in Computer Science from UFOP.
 <br>
-Front-end Developer and Mobile Developer.</p>
+QA focused on automated testing, with experience in
+Front-end developer and Mobile developer.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -14,7 +15,7 @@ Front-end Developer and Mobile Developer.</p>
 <h3 align="left">Some technologies</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,typescript,docker,react,flutter,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,docker,react,flutter,nodejs,java,selenium,cypress,postman" />
   </a>
   
   <br>
