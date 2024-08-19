@@ -14,7 +14,7 @@ QA focused on automated testing and Software developer.</p>
 <h3 align="left">Some technologies</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,docker,react,flutter,nodejs,java,selenium,cypress,postman" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,python,docker,react,flutter,nodejs,java,selenium,cypress,postman" />
   </a>
   
   <br>
