@@ -4,7 +4,7 @@
 
 <p align="justify">Graduating in Computer Science from UFOP.
 <br>
-QA focused on automated testing and Software developer.</p>
+QA focused on automated testing.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
