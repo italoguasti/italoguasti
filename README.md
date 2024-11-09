@@ -2,9 +2,7 @@
     <span>Italo Guasti</span>
 </h1>
 
-<p align="justify">Graduating in Computer Science from UFOP.
-<br>
-QA focused on automated testing.</p>
+<p align="justify">Graduating in Computer Science from UFOP.</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
