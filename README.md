@@ -12,7 +12,7 @@
 <h3 align="left">Some technologies</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,docker,aws,nodejs,flutter,c,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,docker,aws,nodejs,flutter" />
   </a>
   
   <br>
